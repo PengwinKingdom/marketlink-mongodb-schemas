@@ -29,7 +29,7 @@ mongosh "mongodb://admin:TU_PASSWORD@localhost:27017/miPrimeraDB?authSource=admi
 - Ejecutar los scripts de forma manual copiando y pegando los comandos, o bien usando:
 
 ```
-mongosh < reate_db_and_collections.mongosh
+mongosh < create_db_and_collections.mongosh
 mongosh < insert_usuarios.mongosh
 mongosh < queries_usuarios.mongosh
 
