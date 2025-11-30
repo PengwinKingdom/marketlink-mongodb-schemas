@@ -1,1 +1,5 @@
+use miPrimeraDB
+
+db.usuarios.find().pretty()
+db.usuarios.countDocuments()
 
